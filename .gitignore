@@ -1,3 +1,3 @@
 .gitignore
-/Users/dean/Desktop/mern/node_modules
+./node_modules
 yarn.lock
